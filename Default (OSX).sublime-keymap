@@ -2,8 +2,8 @@
   //代码格式化
   { "keys": ["shift+tab"], "command": "reindent" , "args": { "single_line": false } },
 
-  // 系统默认是  { "keys": ["ctrl+space"], "command": "auto_complete" },
-  // 但一般系统上 "ctrl+space" 是用来切换输入法的
+  // 系统默认是 { "keys": ["ctrl+space"], "command": "auto_complete" },
+  // 但一般系统上 "ctrl+space" 是用来切换输入法的,所以暂用alt+space
   { "keys": ["alt+space"], "command": "auto_complete" },
 
 ]
