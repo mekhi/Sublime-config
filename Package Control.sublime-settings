@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",//快速创建新文件
+		"Emmet",//Html/css代码快速编写神器
+		"Git",//你懂得
+		"Package Control",//必须有
+		"RailsCasts Colour Scheme",//配色方案
+		"SyncedSideBar"//自动同步侧边栏
+	]
+}
