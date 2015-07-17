@@ -2,4 +2,4 @@
 
     操作系统：Mac OSX Yosemite
     Sublime：Sublime Text 3 
-    Package：![Package Control文件](https://github.com/mekhi/Sublime-config/master/Package%20Control.sublime-settings)
+    Package：[Package Control.sublime-settings 文件](https://github.com/mekhi/sublime-config/master/Package%20Control.sublime-settings)
