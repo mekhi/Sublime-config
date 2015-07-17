@@ -2,4 +2,4 @@
 
     操作系统：Mac OSX Yosemite
     Sublime：Sublime Text 3 
-    Package：[![Package Control]](https://baidu.com)
+    Package：This is [an example](http://example.com/ "Title") inline link.
